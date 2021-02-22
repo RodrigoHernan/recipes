@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+    {% if post.categories contains "recetas" %}
+        {% include postbox.html %}
+    {% endif %}
+{% endfor %}
+
