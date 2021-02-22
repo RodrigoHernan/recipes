@@ -4,7 +4,7 @@ title: "Recetas"
 description: "Sitio de uso personal"
 logo: 'assets/images/logo-landscape.svg'
 favicon: 'assets/images/logo-empty.svg'
-baseurl: /recipes/
+baseurl: /recipes
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -32,6 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-spaceship
 
 # Archives
 jekyll-archives:
