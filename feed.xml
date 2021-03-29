@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recetas</title>
+    <description>Sitio de uso personal</description>
+    <link>/recipes/</link>
+    <atom:link href="/recipes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 29 Mar 2021 22:35:49 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Mar 2021 22:35:49 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Salsa a lo Gladys</title>
+        <description>&lt;h4 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h4&gt;
+&lt;table class=&quot;table&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;/th&gt;&lt;td&gt;2 cuartos de pollo.&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;/th&gt;&lt;td&gt;1 cebolla.&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;/th&gt;&lt;td&gt;1/2 morrón.&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;/th&gt;&lt;td&gt;500 cm3 salsa de tomate, en cubos mejor.&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;th scope=&quot;row&quot;&gt;&lt;input type=&quot;checkbox&quot; /&gt;&lt;/th&gt;&lt;td&gt;1 Hojita de laurel
+    &lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;pasos&quot;&gt;Pasos&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Picar la cebolla en cuadraditos junto con el morrón.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Calentar el aceite y luego echar el cemorron.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sofreir hasta que este doradira la cebolla. &lt;br /&gt;
+&lt;strong&gt;importante&lt;/strong&gt;: sin tapa!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le mandas el pollo, Bien limpito no seas cochino…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tapa y lo dejas un rato hasta que el pollo tome color blanco y largue un poco de liquido. 5 min aprox.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tirale el tomate, y la hoja de laurel&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5 min. antes de que termine la coccion condimentos&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enjoy! ;)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+        <link>/recipes/salsa-lo-gladys/</link>
+        <guid isPermaLink="true">/recipes/salsa-lo-gladys/</guid>
+        
+        
+        <category>recetas</category>
+        
+      </item>
+    
+      <item>
+        <title>Calzones de spinaca</title>
+        <description>&lt;h1 id=&quot;muy-buena-receta&quot;&gt;Muy buena receta&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.tastemade.com/videos/mini-calzone-de-ricota-y-espinaca&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+        <link>/recipes/calzone-spinaca/</link>
+        <guid isPermaLink="true">/recipes/calzone-spinaca/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>Recetas</category>
+        
+      </item>
+    
+  </channel>
+</rss>
